@@ -1,0 +1,23 @@
+{
+  "name": "api-calls2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cloudant": "^1.4.3",
+    "date-and-time": "^0.3.0",
+    "dateformat": "^1.0.12",
+    "express": "^4.14.0",
+    "jsonfile": "^2.4.0",
+    "merge": "^1.2.0",
+    "path": "^0.12.7",
+    "request": "^2.75.0",
+    "underscore": "^1.8.3"
+  }
+}
